@@ -1,5 +1,5 @@
-# github-security-best-practices
-An aggregation of documented GitHub security best practices
+# Welcome
+to an aggregation of documented GitHub security best practices and materials
 
 #### General Material
 * [Best Practices for Organizations](https://github.community/t/best-practices-for-organizations/10205) - Written by @pholleran
